@@ -1,0 +1,3 @@
+We used Router Module for routing.
+Used bootstrap for navigation.
+Since angular is a single page application. We used Observable for data fetching from the folder. 
